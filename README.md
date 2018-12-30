@@ -5,10 +5,10 @@
 Then compare the results with np.fft.fft2.
 
 ## Formula:
-![formula](https://github.com/qinhaihong-red/dft_idft_example/raw/master/images/formula.png)
+![formula](https://github.com/qinhaihong-red/dft_idft_example/raw/master/images/formula.PNG)
 
 ## DFT Steps:
-![steps](https://github.com/qinhaihong-red/dft_idft_example/raw/master/images/step.png)
+![steps](https://github.com/qinhaihong-red/dft_idft_example/raw/master/images/step.PNG)
 
 ## iDFT Steps:
 almost like DFT Steps.
